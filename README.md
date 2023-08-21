@@ -48,4 +48,3 @@ It executes commands from the server, supports file transfer, and sends results 
 The C2 server works with only one agent currently.
 
 
-# C2-over-ICMP-in-Python
